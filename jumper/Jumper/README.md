@@ -29,7 +29,7 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Cassandra Belyeu   (cassiebelyeu96@)
+* Cassandra Belyeu   (cassiebelyeu96@gmail.com)
 * Lutho Masoka       (luthomasoka@gmail.com)
 * Marcelino Freyre   (marceeunion@gmail.com)
 * Davi do Vale       (dovale.sis@gmail.com)
