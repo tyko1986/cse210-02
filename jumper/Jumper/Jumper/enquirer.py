@@ -25,6 +25,7 @@ class Enquirer:
         self.word = ""
         self.letter = ""
         self.parachute_points = 5
+        
         self.guessed_letters = []
         self.missing_letters = ""
         self.guess = ""
